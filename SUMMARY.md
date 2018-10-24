@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [Prueba 1](README.md)
+* [Prueba 1.2](untitled.md)
 
